@@ -1,4 +1,6 @@
-## Sr. DEVOPS ENGINEER
+## Timur Shafeev
+ 
+### Sr. DevOps Engineer
 
 <a href="assets/files/Timur_Shafeev_CV.pdf" download>Dowload this CV as PDF</a>
 ### SUMMARY
