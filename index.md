@@ -9,7 +9,7 @@
 
 <a href="maito:shafeev@gmail.com">My email</a>
 <a href="callto:timur.shafeev?call">My skype is timur.shafeev</a>
-<a href="www.linkedin.com/in/timur-shafeev">My LinkedIn profile</a>
+<a href="https://www.linkedin.com/in/timur-shafeev">My LinkedIn profile</a>
 
 - Excellent devops engineering skills with public and private cloud (AWS, Azure, VMware) using devops tools like Chef, Ansible, Terraform, and Cloudformation, AzureRM Templates.
 - Experienced in script writing using Bash, PowerShell, Ruby, and Python
