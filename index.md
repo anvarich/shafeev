@@ -4,17 +4,20 @@
 
 <a href="assets/files/Timur_Shafeev_CV.pdf" download>Dowload this CV as PDF</a>
 
+
 ### SUMMARY
 
-[My email](shafeev@gmail.com)</br>
-<a href="callto:timur.shafeev?call">My skype is timur.shafeev</a> </br>
-[My LinkedIn profile](www.linkedin.com/in/timur-shafeev)
+<a href="maito:shafeev@gmail.com">My email</a>
+<a href="callto:timur.shafeev?call">My skype is timur.shafeev</a>
+<a href="www.linkedin.com/in/timur-shafeev">My LinkedIn profile</a>
 
 - Excellent devops engineering skills with public and private cloud (AWS, Azure, VMware) using devops tools like Chef, Ansible, Terraform, and Cloudformation, AzureRM Templates.
 - Experienced in script writing using Bash, PowerShell, Ruby, and Python
 - Skilled in administration, troubleshooting, provisioning, and orchestration of Windows and Linux stack operating systems Linux/Windows/Hypervisors
 - Experienced working with CI/CD servers (Jenkins, Teamcity, Bamboo, GitLabCI)
 - Good knowledge of performance and log monitoring tools (Zabbix, Nagios, ELK, Graylog, InfluxDB, Prometheus, Graphana/Graphite)
+
+
 
 ### WORK EXPERIENCE
 
