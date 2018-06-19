@@ -1,5 +1,6 @@
 ## Sr. DEVOPS ENGINEER
 
+<a href="assets/files/Timur_Shafeev_CV.pdf" download>Dowload this CV as PDF</a>
 ### SUMMARY
 
 - Excellent devops engineering skills with public and private cloud (AWS, Azure, VMware) using devops tools like Chef, Ansible, Terraform, and Cloudformation, AzureRM Templates. 
