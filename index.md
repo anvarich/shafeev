@@ -1,12 +1,16 @@
 ## Timur Shafeev
- 
+
 ### Sr. DevOps Engineer
 
 <a href="assets/files/Timur_Shafeev_CV.pdf" download>Dowload this CV as PDF</a>
+
 ### SUMMARY
 
-- Excellent devops engineering skills with public and private cloud (AWS, Azure, VMware) using devops tools like Chef, Ansible, Terraform, and Cloudformation, AzureRM Templates. 
+[My email](shafeev@gmail.com)</br>
+<a href="callto:timur.shafeev?call">My skype is timur.shafeev</a> </br>
+[My LinkedIn profile](www.linkedin.com/in/timur-shafeev)
 
+- Excellent devops engineering skills with public and private cloud (AWS, Azure, VMware) using devops tools like Chef, Ansible, Terraform, and Cloudformation, AzureRM Templates.
 - Experienced in script writing using Bash, PowerShell, Ruby, and Python
 - Skilled in administration, troubleshooting, provisioning, and orchestration of Windows and Linux stack operating systems Linux/Windows/Hypervisors
 - Experienced working with CI/CD servers (Jenkins, Teamcity, Bamboo, GitLabCI)
