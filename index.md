@@ -27,6 +27,13 @@ Tasks performed:
 - devops tasks related to automation CI/CD in Azure and AWS
 - AzureRM templates authoring
 - monitoring ELK/NewRelic/AppInsight/PagerDuty
+- kubernetes cluster maintainance and troubleshooting (AKS/ACS)
+- ELK maintainance
+- Jenkins CI/CD pipeline authoring
+- Azure AppServices/AppInsight/Storage maintainance and monitoring
+- automation of common and routine tasks of Ops Engineers and Devepolepers teams
+- hiring devops engineers into St-Petersburg office for better handling all these tasks 
+
 
 #### Dec-2014 - Nov-2017 - Sr. Devops Engineer, EPAM Systems, epam.com
 
