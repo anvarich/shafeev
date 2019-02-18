@@ -9,7 +9,7 @@
 
 ### SUMMARY
 
-- Excellent DevOps engineering skills with public and private cloud (AWS, Azure, VMware) using DevOps tools like Chef, Ansible, Terraform, and Cloudformation, AzureRM Templates.
+- Excellent DevOps engineering skills with public and private cloud (AWS, Azure, VMWare) using DevOps approach with help of Chef, Ansible, Terraform, and Cloudformation, AzureRM Templates.
 - Experienced in script writing using Bash, PowerShell, Ruby, and Python
 - Skilled in administration, troubleshooting, provisioning, and orchestration of Windows and Linux stack operating systems Linux/Windows/Hypervisors
 - Experienced working with CI/CD servers (Jenkins, Teamcity, Bamboo, GitLabCI)
@@ -47,7 +47,6 @@ ___
 - CI/CD pipeline development for bunch of similar .net core applications using gitlab-ci and .net core docker builders, deploy through terraform and gitlab-ci pipeline, Blue-Green deployment. 
 - Minor and backside tasks where I used Hashistack/Ansible/Teamcity for building CI/CD pipelines in Azure/AWS, just for help developers and other team members 
 - ELK/AWS ESS set up and continuing improvement of logging appllications/OS/CloudTrail logs
-
 - Create automating deployment Customer Windows web-app applications on EC2 using Chef and Octopus Server
 - Developed and helped to develop Chef recipes and cookbooks to other team members regarding customer best practices and prerequisites
 - Have used Hashicorp Terraform/Packer/Consul for up and run environment instances in AWS cloud
