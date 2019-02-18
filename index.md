@@ -117,12 +117,10 @@ ___
 
 ##### Tasks performed:
 
-- Performed server administration and support of IT infrastructure growth in North West Region of Russian Federation
-- Performed L2/L3 support
-- Virtualized legacy park of servers to VMware v5
-- Performed plain system administration works like a installing and updating new server hw/vm, backup, monitoring, upgrading
+- Common server system administration tasks - installing/patching/monitoring/backup server environment
+- Virtualized legacy park of servers to VMWare5
 
-##### Environment: Sybase, MS SQL, MySQL, Powershell, cmd, bash
+##### Environment: Linux/Windows HW/VW servers, Sybase, MS SQL, MySQL, Powershell, cmd, bash
 ___
 
 #### Feb-2004 - Feb-2006 - L2 Support Engineer, Lenta , lenta.com
@@ -134,12 +132,11 @@ ___
 
 ##### Tasks performed:
 
-- Performed infrastructure support on the site
+- IT support on the site
 - Performed server and desktop maintenance
-- Lead IT project role with opening new shop facilities in city
+- Lead IT project role with opening new supermarket facilities in city
 
-##### Environment:
-- Win2k3 Servers and WindowsXP desktops, MS AD, MS Exchange
+##### Environment: Win2k3 Servers and WindowsXP desktops, MS AD, MS Exchange
 
 #### Feb-2001 - Feb-2004 - System Engineer, National Library of Russia, nlr.ru
 
