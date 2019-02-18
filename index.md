@@ -19,8 +19,8 @@
 
 #### Nov-2017 - Till Now - Sr. DevOps Engineer Quest, quest.com
 
-Team size 8 DevOps engineers.
-Project role: Sr. DevOps Engineer
+##### Team size 8 DevOps engineers.
+##### Project role: Sr. DevOps Engineer
 
 ##### Tasks performed:
 
