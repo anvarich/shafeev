@@ -10,6 +10,7 @@
 ### SUMMARY
 
 - Excellent DevOps engineering skills with public and private cloud (AWS, Azure, VMWare) using DevOps approach with help of Chef, Ansible, Terraform, and Cloudformation, AzureRM Templates.
+- Kubernetes CI/CD, troubleshouting, monitoring
 - Experienced in script writing using Bash, PowerShell, Ruby, and Python
 - Skilled in administration, troubleshooting, provisioning, and orchestration of Windows and Linux stack operating systems Linux/Windows/Hypervisors
 - Experienced working with CI/CD servers (Jenkins, Teamcity, Bamboo, GitLabCI)
@@ -24,15 +25,15 @@
 
 ##### Tasks performed:
 
-- DevOps tasks related to automation CI/CD in Azure and AWS
-- Terraform/AzureRM templates authoring
-- Monitoring using ELK/NewRelic/AppInsight/PagerDuty
-- Kubernetes clusters maintenance and troubleshooting (AKS/ACS)
-- ELK maintenance/troubleshooting
-- Jenkins CI/CD pipeline authoring
+- DevOps tasks related to automation CI/CD (Jenkins/AzureDevops) in Azure and AWS for Quest products
+- Terraform manifests and AzureRM templates authoring
+- Monitoring using ELK/Pormetheus/NewRelic/AppInsight/PagerDuty/Grafana
+- Kubernetes clusters maintenance and troubleshooting
+- ELK clusters maintenance/troubleshooting
+- automation as usual bash/python/powershell
 - Azure AppServices/AppInsight/Storage maintenance and monitoring
 - Automation of common and routine tasks of Ops Engineers and Developers teams
-- Hiring DevOps engineers into St-Petersburg office for better handling all these tasks
+- Interviewing and onboarding DevOps engineers, mentoring and task management
 
 ___
 
@@ -41,39 +42,22 @@ ___
 ##### Team Size: Dev Team: - 5 .net developers - 2 QA specialists - 2 DevOps engineers - 1 system architect at start of project and 4 DevOps Engineers at the end
 ##### Project Role: DevOps Engineer/Lead DevOps Engineer
 
-##### EU customer project (2016-2017):
+##### EU customer project (2014-2017):
 
-- Jenkins farm move from on-premise site to AWS using terraform, docker, chef, AWS ECS and gitlab-ci.
-- CI/CD pipeline development for bunch of similar .net core applications using gitlab-ci and .net core docker builders, deploy through terraform and gitlab-ci pipeline, Blue-Green deployment. 
-- Minor and backside tasks where I used Hashistack/Ansible/Teamcity for building CI/CD pipelines in Azure/AWS, just for help developers and other team members 
-- ELK/AWS ESS set up and continuing improvement of logging appllications/OS/CloudTrail logs
-- Create automating deployment Customer Windows web-app applications on EC2 using Chef and Octopus Server
-- Developed and helped to develop Chef recipes and cookbooks to other team members regarding customer best practices and prerequisites
-- Have used Hashicorp Terraform/Packer/Consul for up and run environment instances in AWS cloud
-- Troubleshooting of running Chef recipes and cookbooks in AWS environment
-- MS RDP Farm deployment and provisioning (AWS ASG, AWS ELB, Chef, PowerShell, ruby)
-- MSSQL HA Cluster with Always-On (AWS ASG, AWS ELB, Chef, PowerShell, ruby)
-- Continues Documentation writing for customer and sharing information with them DevOps engineers who can use or re-use created solution and code in customer environment
-- Security compliance policy checking, hardening servers, applications  and environments.
+- develop Chef recipes and cookbooks to other team members regards customer best practices and prerequisites
+- using Hashicorp Terraform for up and run environment instances in AWS cloud
+- troubleshooting of running Chef recipes and cookbooks in AWS environment
+- used ruby and powershell script and cmdlets for successful develop solution which consist from RDS farm in HA, Always on availability groups in MSSQL windows failover clustering with multiply network addresses
+- wrote documentation for customer that's needed for successfully run this solution in customer environment
+- Jira/Confluence l2/l3 support, custom workflows/fields and etc
+- Migration of old installation of Jira instances, SVN servers, ftp and git servers
+- Security compliance policy checking, hardening servers and applications.
+- L2/L3 support for developers from other projects that is used EPAM and exGGA cloud in daily usage
 
 ##### Environment:
 - Jenkins , Docker, Chef, terraform, bash scripting, PowerShell scripting, GitLab/gitlab-ci, octopus
 - AWS ASG/S3/ELB/KMS/RDS/EC2/ECS/RDS/ESS, Windows2012r2/2-16/Oracle Linux 7, ELK, Hashistack, Chef, GitlabCI
 - MS SQL 2012/2014
-
-___
-
-##### EPAM internal DevOps/Support L3 engineer (2014-2016)
-
-##### Team Size: 5 members - System Engineers
-##### Project Role: Senior IT Infrastructure Support Engineer
-
-- Jira/Confluence l2/l3 support, custom workflows/fields and etc
-- Migration of old installation of Jira instances, SVN servers, ftp and git servers
-- Security compliance policy checking, hardening servers and applications.
-- L2/L3 support for developers from other projects that is used EPAM cloud in daily use
-
-##### Environment: VMWare, PowerShell, Zabbix, Nagios, Jira, Subversion, Openstack
 
 ___
 
@@ -84,18 +68,15 @@ ___
 
 ##### Tasks performed:
 
-- Established IT server and application infrastructure from scratch
-- Planned, performed, and controlled system administration tasks
-- Managed Windows and Linux servers geographically distributed across the Russian Federation
-- Participated in the virtualization project based on VMware VSphere 4/5, MS Hyper-V 2008r2/2012 System Center 2012
-- Participated in the project for creating a distributed high-availability infrastructure and transfer of basic and critical services companies in the geographically dispersed data centers
-- Planned and implemented high-availability services, clustering and balancing services based on Haproxy, BigIP F5
-- Introduced Zabbix monitoring system, operating system metrics monitoring (SNMP, WMI, JMX), availability of services (L2, L7 tests), control of replication and backup
-- Centralization the operating system and application logs based on ELK and HP ARCSite
-- Implemented MS System Center 2012 (SC DPM, SC CM, SC VMM) for servicing a Windows company infrastructure (patch management, backup and replication, VM orchestration)
-- Implemented Exchange 2010 fault-tolerant infrastructure (migration from Exchange 2003), policy management, archiving and mail storage
-- Implemented and supported CI, CD infrastructure based on SVN, Jenkins / Teamcity, Nexus
-- Application and OS configuration management with Chef. Chef cookbooks authoring.
+- Creating server and network infrastructure for company to meet the standards of work 24/7/365 by reserving all services.
+- Managing hundreds of Windows/Linux servers geographically distributed across the Russian Federation.
+- Application and operating system troubleshooting, information security policy compliance
+- The project of virtualization based on Vmware vsphere 4/5, MS Hyper-V 2008r2 / 2012 System Center 2012.
+- Planning and implementation of high-availability services. Clustering and balancing services based haproxy, BigIP F5.
+- Introducing of Zabbix monitoring system, operating system metrics monitoring (SNMP, WMI, JMX), the availability of services (L2, L7 tests), control of replication and backup. Centralizing and analyzing the operating system and application logs based ELK
+- Project of implementation MS System Center 2012 (SC DPM, SC CM, SC VMM) for servicing a Windows company infrastructure (patch management, backup and replication, VM orchestration)
+- The introduction of project services based on Citrix Xenapp 6.5, the transfer of business critical desktop applications on a farm of 10 servers Citrix Xenapp, balanced by HAproxy/BigIP F5
+- Introducing first Devops practices: Chef as coniguration management, CI/CD infrastructure based on Svn/Git, Jenkins/Teamcity, Nexus.
 
 ##### Environment:
 
@@ -117,8 +98,10 @@ ___
 
 ##### Tasks performed:
 
-- Common server system administration tasks - installing/patching/monitoring/backup server environment
-- Virtualized legacy park of servers to VMWare5
+- L2/L3 system administration of central office in Saint-Petersburg with 20 branches in city and region
+- Administration Windows/Linux server infrastructure, automation of maintainance, monitoring.
+- Security policy authoring for Windows Domain and Linux environments for security policy compliance
+- System Administration team hiring and onboarding
 
 ##### Environment: Linux/Windows HW/VW servers, Sybase, MS SQL, MySQL, Powershell, cmd, bash
 ___
@@ -132,9 +115,8 @@ ___
 
 ##### Tasks performed:
 
-- IT support on the site
-- Performed server and desktop maintenance
-- Lead IT project role with opening new supermarket facilities in city
+- Participation in the opening of several shopping malls in Saint Petersburg.
+- Administration of Windows domain infrastructure (Win2k3, MS Exchange), customer support, order supplies.
 
 ##### Environment: Win2k3 Servers and WindowsXP desktops, MS AD, MS Exchange
 
@@ -144,7 +126,12 @@ ___
 
 ##### Tasks performed:
 
-- Library's IT environment support: SQL database (PgSQL, MySQL), DNS Server (BIND),  SMTP(Postfix), server OS software maintenance
+Administration internal servers:
+
+- Internal and external ftp and web servers (Apache, Proftpd)
+- SQL database (PgSQL, MySQL)
+- Antivirus, antispam software for MX server
+  
 ##### Environment: RedHat Linux, SunOS, Windows NT4, BIND, Squid, Postfix, Sendmail
   
 ### EDUCATION
