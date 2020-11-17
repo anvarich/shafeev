@@ -27,7 +27,7 @@
 
 - DevOps tasks related to automation CI/CD (Jenkins/AzureDevops) in Azure and AWS for Quest products
 - Terraform manifests and AzureRM templates authoring
-- Monitoring using ELK/Pormetheus/NewRelic/AppInsight/PagerDuty/Grafana
+- Monitoring using ELK/Prometheus/NewRelic/AppInsight/PagerDuty/Grafana
 - Kubernetes clusters maintenance and troubleshooting
 - ELK clusters maintenance/troubleshooting
 - automation as usual bash/python/powershell
